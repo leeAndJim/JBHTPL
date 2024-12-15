@@ -1,0 +1,8 @@
+[Time: Sun Dec 15 11:42:11 2024] F1 of NKSID1_CE_2linears_resnet18 is : 0.897610320498971
+[Time: Sun Dec 15 11:42:43 2024] F1 of NKSID1_CE_prog_2linears_resnet18 is : 0.9146649419257957
+[Time: Sun Dec 15 11:43:08 2024] F1 of NKSID1_Jig_CE_prog_2linears_resnet18 is : 0.9227058833842834
+[Time: Sun Dec 15 11:43:31 2024] F1 of NKSID1_Jig_CE_2linears_resnet18 is : 0.9144354072175108
+[Time: Sun Dec 15 11:43:59 2024] F1 of NKSID1_Jig_KPS_2linears_resnet18 is : 0.9208158392299549
+[Time: Sun Dec 15 11:44:19 2024] F1 of NKSID1_Jig_KPS_prog_2linears_resnet18 is : 0.9386641905612992
+[Time: Sun Dec 15 11:44:37 2024] F1 of NKSID1_KPS_prog_2linears_resnet18 is : 0.9336647137756745
+[Time: Sun Dec 15 11:44:50 2024] F1 of NKSID1_KPS_2linears_resnet18 is : 0.9052655014846958

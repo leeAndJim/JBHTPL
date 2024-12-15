@@ -1,0 +1,8 @@
+[Time: Sun Dec 15 11:42:11 2024] Gmean of NKSID1_CE_2linears_resnet18 is : 0.8940960977863182
+[Time: Sun Dec 15 11:42:43 2024] Gmean of NKSID1_CE_prog_2linears_resnet18 is : 0.923302227063326
+[Time: Sun Dec 15 11:43:08 2024] Gmean of NKSID1_Jig_CE_prog_2linears_resnet18 is : 0.9362658352132017
+[Time: Sun Dec 15 11:43:31 2024] Gmean of NKSID1_Jig_CE_2linears_resnet18 is : 0.9264898414196135
+[Time: Sun Dec 15 11:43:59 2024] Gmean of NKSID1_Jig_KPS_2linears_resnet18 is : 0.930704980104394
+[Time: Sun Dec 15 11:44:19 2024] Gmean of NKSID1_Jig_KPS_prog_2linears_resnet18 is : 0.9477969917306575
+[Time: Sun Dec 15 11:44:37 2024] Gmean of NKSID1_KPS_prog_2linears_resnet18 is : 0.9415447878023974
+[Time: Sun Dec 15 11:44:50 2024] Gmean of NKSID1_KPS_2linears_resnet18 is : 0.9058835768839529
