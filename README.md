@@ -127,12 +127,12 @@ cd ./tool/
 
 ### 结果分析
 
-在通过十次五折交叉验证训练完BETL之后，您会得到y_hat, y_true和logits结果，默认存放在`"/output/result/{dataset}/{method}/{backbone}/"`路径下，例如，`"/output/result/NKSID/jbhtpl/resnet18/y_hat.txt"`。然后，您可以使用下面的命令来得到Gmean、Macro-F1、混淆矩阵和P-R曲线结果：
+在通过十次五折交叉验证训练完BETL之后，您会得到y_hat, y_true和logits结果，默认存放在`"/output/result/{dataset}/{method}/{backbone}/"`路径下，例如，`"/output/result/NKSID/Jig_KPS_prog_2linears/resnet18/y_hat.txt"`。然后，您可以使用下面的命令来得到Gmean、Macro-F1、混淆矩阵和P-R曲线结果：
 
 ```shell
 # Demo: analyzing on NKSID, using resnet18 as backbone
 cd ./code/
-python analyse_result.py --dataset NKSID --method jbhtpl --backbone resnet18 --get_conf_matrix True --get_pr True
+python analyse_result.py --dataset NKSID --method Jig_KPS_prog_2linears --backbone resnet18 --get_conf_matrix True --get_pr True
 ```
 
 ##  引用
