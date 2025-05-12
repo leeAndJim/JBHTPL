@@ -113,8 +113,8 @@ python pretrain_resnet18.py
 
 ```shell
 # Demo: training on KLSG
-cd ./code/
-python betl.py --dataset NKSID
+cd ./code_KPS_prog/
+python Jig_betl.py --dataset NKSID
 ```
 
 通过下面的命令来对BETL进行十次五折交叉验证训练：
@@ -122,7 +122,7 @@ python betl.py --dataset NKSID
 ```shell
 # Demo: training on KLSG, using resnet18 as backbone
 cd ./tool/
-./auto_run.sh ../code/betl.py NKSID resnet18
+./auto_run.sh ../code_KPS_prog/Jig_betl.py NKSID resnet18
 ```
 
 ### 结果分析
